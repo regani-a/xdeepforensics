@@ -1,0 +1,13 @@
+{
+  "name": "Remix: XDeepForensics",
+  "description": "Explainable AI (XAI) Deepfake Detection System for digital forensics. Detects visual and audio manipulations with evidence highlighting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "video_analysis",
+    "audio_analysis",
+    "xai_reporting"
+  ]
+}
