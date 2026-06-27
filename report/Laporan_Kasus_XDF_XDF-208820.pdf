@@ -1,0 +1,515 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5565
+>>
+stream
+0.200025 w
+0 G
+0.06 0.09 0.16 rg
+0. 841.8899999999999864 595. -120. re
+f
+BT
+/F2 22 Tf
+25.2999999999999972 TL
+1. g
+40. 781.8899999999999864 Td
+(LAPORAN ANALISIS FORENSIK DIGITAL) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+40. 757.8899999999999864 Td
+(ID Referensi: XDF-208820   |   Sistem: XDeepForensics SOTA Applet Engine) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+40. 743.8899999999999864 Td
+(Tanggal Scan: 27/6/2026, 14.10.08) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.059 0.09 0.165 rg
+40. 691.8899999999999864 Td
+(KESIMPULAN EKSEKUTIF) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.059 0.09 0.165 rg
+40. 671.8899999999999864 Td
+(Nama Barang Bukti: truepic-20230212-landscape.jpg) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.059 0.09 0.165 rg
+40. 655.8899999999999864 Td
+(Ukuran Berkas       : 3.83 MB) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.059 0.09 0.165 rg
+40. 639.8899999999999864 Td
+(Format Media         : image/jpeg) Tj
+ET
+0.94 0.99 0.96 rg
+0.13 0.77 0.37 RG
+1.5 w
+44. 616.8899999999999864 m
+551. 616.8899999999999864 l
+553.2091389993231587 616.8899999999999864 555. 615.0991389993231451 555. 612.8899999999999864 c
+555. 555.8899999999999864 l
+555. 553.6808610006768276 552.7908610006768413 551.8899999999999864 551. 551.8899999999999864 c
+44. 551.8899999999999864 l
+41.7908610006768271 551.8899999999999864 40. 554.0991389993231451 40. 555.8899999999999864 c
+40. 612.8899999999999864 l
+40. 615.0991389993231451 42.2091389993231729 616.8899999999999864 44. 616.8899999999999864 c
+h
+B
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.082 0.502 0.239 rg
+55. 591.8899999999999864 Td
+(STATUS: TERBUKTI OTENTIK \(ASLI / KREDIBEL\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.082 0.502 0.239 rg
+55. 571.8899999999999864 Td
+(Tingkat Keyakinan Sistem \(Confidence Score\): 100.00%) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+40. 521.8899999999999864 Td
+(METRIK EVALUASI MODEL \(SOTA\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 491.8899999999999864 Td
+(Spasial Wajah \(XceptionNet\)) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.082 0.502 0.239 rg
+210. 491.8899999999999864 Td
+(Nonaktif \(Bypassed - Metadata/C2PA Terverifikasi Asli\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 473.8899999999999864 Td
+(Kinematika Tubuh \(YOLOv8\)) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.082 0.502 0.239 rg
+210. 473.8899999999999864 Td
+(Nonaktif \(Bypassed - Metadata/C2PA Terverifikasi Asli\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 455.8899999999999864 Td
+(Analisis Akustik \(AASIST\)) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.082 0.502 0.239 rg
+210. 455.8899999999999864 Td
+(Nonaktif \(Bypassed - Metadata/C2PA Terverifikasi Asli\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 437.8899999999999864 Td
+(Sinkronisasi Bibir \(Lip-Sync\)) Tj
+ET
+BT
+/F3 9 Tf
+10.3499999999999996 TL
+0.082 0.502 0.239 rg
+210. 437.8899999999999864 Td
+(Nonaktif \(Bypassed - Metadata/C2PA Terverifikasi Asli\)) Tj
+ET
+0.97 0.98 0.99 rg
+40. 422.8899999999999864 515. -100. re
+f
+0.89 0.91 0.94 RG
+0.5 w
+40. 422.8899999999999864 515. -100. re
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.278 0.333 0.412 rg
+52. 406.8899999999999864 Td
+(PANDUAN PEMBACAAN BAGI MASYARAKAT UMUM:) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+52. 390.8899999999999864 Td
+(- Spasial Wajah: Memeriksa keganjilan bayangan, diskontinuitas tekstur kulit, atau kecatatan pixel di sekitar area wajah.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+52. 376.8899999999999864 Td
+(- Kinematika Tubuh: Sensor biomekanis YOLOv8 untuk memvalidasi kelentulan kaku sendi tubuh manusia.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+52. 362.8899999999999864 Td
+(- Analisis Akustik: Mendeteksi kloning suara artifisial dengan membandingkan kesesuaian spektral gelombang vokal.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+52. 348.8899999999999864 Td
+(- Sinkronisasi Bibir: Mengukur ketepatan gerakan mulut aktor dibanding dengungan suara akustik yang diluncurkan.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+40. 307.8899999999999864 Td
+(URAIAN PENILAIAN REASONING) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+40. 289.8899999999999864 Td
+(LAPORAN FORENSIK DIGITAL MULTIMODAL) Tj
+T* (Kategori: Analisis Metadata & Provenance C2PA) Tj
+T* (Verdik Akhir: TERVERIFIKASI \(OTENTIK MUTLAK\)) Tj
+T* () Tj
+T* (Sistem XDeepForensics mengonfirmasi keaslian mutlak berkas melalui validasi rantai kepemilikan data \(Provenance\) dan) Tj
+T* (sertifikasi tanda tangan kriptografis hardware modern yang tersemat pada metadata.) Tj
+T* () Tj
+T* (DETAIL TEMUAN DETEKSI:) Tj
+T* (- Metodologi: Verifikasi Sertifikasi Kriptografi Hardware & Alur Penyuntingan Sah.) Tj
+T* (- Jejak Forensik: Kredensial Kriptografis Valid. Direkam menggunakan: Truepic Secure Camera Component \(Kunci Publik & Alur) Tj
+T* (Provenance Utuh\)) Tj
+T* () Tj
+T* (PENJELASAN TEKNIS FORENSIK:) Tj
+T* (Manifes digital terenkripsi C2PA yang valid bertindak sebagai paspor digital yang mustahil dipalsukan. Sistem berhasil) Tj
+T* (memverifikasi kunci kriptografi yang ditandatangani langsung oleh sensor chip aman pada hardware perekam. Seluruh riwayat) Tj
+T* (pembuatan \(provenance tracking\) terbukti utuh, konsisten, dan bebas dari rekayasa algoritma generatif.) Tj
+T* (Demi efisiensi komputasi, sistem melakukan bypass terhadap model estimasi neural \(Deep Learning SOTA\) karena status) Tj
+T* (keaslian mutlak dan integritas fisik berkas telah dijamin secara matematis dengan tingkat kepastian 100.00%.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1067
+>>
+stream
+0.5 w
+0.89 0.91 0.94 RG
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.082 0.502 0.239 rg
+40. 791.8899999999999864 Td
+(VERIFIKASI INTEGRITAS STRUKTURAL MEDIA \(C2PA\)) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0.392 0.455 0.545 rg
+40. 773.8899999999999864 Td
+(Analisis komputasi neural dilewati \(Bypassed\). KEASLIAN berkas dikonfirmasi secara) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0.392 0.455 0.545 rg
+40. 759.8899999999999864 Td
+(mutlak melalui validitas tanda tangan kriptografi kamera asal dan riwayat aman \(Provenance\).) Tj
+ET
+0.8 0.84 0.88 RG
+1. w
+40. 741.8899999999999864 m
+555. 741.8899999999999864 l
+S
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.2 0.255 0.333 rg
+40. 721.8899999999999864 Td
+(SERTIFIKASI KEASLIAN BARANG BUKTI) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+40. 709.8899999999999864 Td
+(Laporan forensik digital ini diproses secara sistematis oleh XDeepForensics SOTA Applet Engine.) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+40. 697.8899999999999864 Td
+(Hasil pemeriksaan ini dinilai objektif dan diakui secara ilmiah untuk dipresentasikan di pengadilan sipil.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260627141008+07'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000007025 00000 n 
+0000008850 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005769 00000 n 
+0000005906 00000 n 
+0000007088 00000 n 
+0000007213 00000 n 
+0000007343 00000 n 
+0000007476 00000 n 
+0000007614 00000 n 
+0000007738 00000 n 
+0000007867 00000 n 
+0000007999 00000 n 
+0000008135 00000 n 
+0000008263 00000 n 
+0000008390 00000 n 
+0000008519 00000 n 
+0000008652 00000 n 
+0000008754 00000 n 
+0000009100 00000 n 
+0000009186 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <F14C67C566AE524AA457C76786D3B755> <F14C67C566AE524AA457C76786D3B755> ]
+>>
+startxref
+9290
+%%EOF
